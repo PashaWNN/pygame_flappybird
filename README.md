@@ -2,6 +2,10 @@
 
 Written in Python using pygame library for eKids education program. Still WIP.
 
+![pic][pic]
+
+[pic]: https://github.com/pashawnn/pygame_flappybird/blob/master/screenshot.png
+
 ## How to run
 
 ```
